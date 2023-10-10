@@ -1,0 +1,58 @@
+.hi{
+    color: #85586F;
+    font-size: 2.5rem;
+    line-height: 2;
+    font-weight: bold;
+    font-family: "OleoScript",cursive;
+}
+p{
+    font-family: "Merriweather", serif;
+    color:#85586F;
+    font-weight: bold;
+    text-align: justify;
+    font-family: serif;
+}
+.skill{
+    border-radius: 35px;
+}
+
+
+h3{
+    color:#85586f ;
+    font-weight: bolder;
+    font-size: 1.5rem;
+    font-family: serif;
+}
+
+.third{
+    background-color:#85586F;
+   
+}
+
+.f, .contact {
+    color: #D0B8A8;
+
+}
+
+.fin span{
+    color: #D0B8A8;
+    font-weight: bolder;
+    font-size: 1.2rem;
+    font-family: serif;
+
+}
+
+/*.first{
+    background-color: #F8EDE3;
+    width: 100%;
+    height: 100vh;
+}
+
+.imgcontainer .pic {
+    width: 100%;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+   
+}*/
+
